@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am a senior at Sharon High School in Sharon, MA and am interested in computer science.
+I am an incoming freshman at the University of Pennsylvania and am interested in computer science.
