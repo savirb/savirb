@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am a freshman at the University of Pennsylvania and am interested in computer science and mathematics.
+I am a rising sophomore at the University of Pennsylvania
